@@ -1,7 +1,42 @@
+* {
+    font-family: ;
+}
+
 h1 {
     color: blue;
+    background-color: pink;
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body {
-    color: green;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+nav {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: .5em;
+    border: 5px groove pink;
+    padding: 2rem;
+    background-color: beige;
+}
+
+li::before {
+    content: "_ ";
+}
+li::after {
+    content: " _";
+}
+ {
+    content: "- "
+    color: red;
+}
+
+h2 ~ ul {
+    font-style: italic ;
 }
