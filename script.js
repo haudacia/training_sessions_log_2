@@ -28,11 +28,10 @@ function openDialog() {
 document.getElementById("openDialogButton").addEventListener("click", openDialog);
 
 */
-
-const updateButton = document.getElementById("updateDetails");
+const logButton = document.getElementById("logWorkout");
 const cancelButton = document.getElementById("cancel");
-const dialog = document.getElementById("favDialog");
-dialog.returnValue = "favAnimal";
+const dialog = document.getElementById("exerciseDialog");
+//dialog.returnValue = "favAnimal";
 
 function openCheck(dialog) {
   if (dialog.open) {
@@ -43,7 +42,7 @@ function openCheck(dialog) {
 }
 
 // Update button opens a modal dialog
-updateButton.addEventListener("click", () => {
+logButton.addEventListener("click", () => {
   dialog.showModal();
   openCheck(dialog);
 });

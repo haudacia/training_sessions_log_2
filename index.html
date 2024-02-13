@@ -6,10 +6,34 @@
     </head>
     <body>
         <h1>WORKOUT TRACKER</h1>
-        <nav>
-            <a href="./log.html" target="_blank"><h2>log</h2></a>
-            <a href="./workout-plan-table.html" target="_blank"><h2>plan</h2></a>
-        </nav>
         
+        <nav>
+            <button id="logWorkout">log workout session</button>
+            <a href="./workout-plan-table.html" target="_blank"><button>workout split</button></a>
+        </nav>
+        <!-- pop-up dialog box, containing a form -->
+        <dialog id="exerciseDialog">
+            <form method="dialog">
+                <p>
+                    <label for="exercisePerformed">exercise performed:</label>
+                    <select id="exercisePerformed" name="exercisePerformed">
+                        <option></option>
+                        <option>leg press 45</option>
+                        <option>squat</option>
+                        <option>sumo squat</option>
+                        <option>bulgarian split squat</option>
+                        <option>hip thrust</option>
+                        <option>single leg deadlift</option>
+                        <option>leg extension</option>
+                    </select>
+                </p>
+            <div>
+                <button id="cancel" type="reset">Cancel</button>
+                <button type="submit">Confirm</button>
+            </div>
+            </form>
+        </dialog>
+
     </body>
+    <script src="script.js"></script>
 </html>

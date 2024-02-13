@@ -1,29 +1,35 @@
 * {
-    font-family: ;
+    text-align: center;
+    font-family: Sono;
 }
 
 h1 {
-    color: blue;
+    color: ;
     background-color: ;
     font-size: 2em;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Roboto Mono;
+    padding-bottom: 100px;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: normal;
 }
 
 body {
-    font-weight: bold;
+    background-color: rgb(184, 187, 174);
+    font-size: 12px;
 }
 
-p {
-    font-family: 'Courier New', Courier, monospace;
 
-}
 
 nav {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flexbox;
+    text-align: center;
     font-size: .5em;
     border: 0px groove pink;
     padding: 3rem;
-    background-color: beige;
+    background-color: ;
 }
 
 li::before {
@@ -32,11 +38,29 @@ li::before {
 li::after {
     content: " _";
 }
- {
-    content: "- "
-    color: red;
-}
 
 h2 ~ ul {
-    font-style: italic ;
+    font-style:;
+}
+dialog {
+    background-color: rgb(210, 177, 214);
+    color: rgb(0, 0, 0);
+    border: 0px;
+}
+
+option {
+    font-weight: ;
+}
+
+a {
+    text-decoration: ;
+    color: rgb(0, 0, 0);
+}
+
+button {
+    padding: 10px;
+    border: 0px;
+}
+a:hover,button:hover {
+    background-color: rgb(255, 125, 19);
 }
