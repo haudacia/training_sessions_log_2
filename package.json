@@ -1,0 +1,15 @@
+{
+  "name": "training_sessions_log_2",
+  "version": "1.0.0",
+  "description": "personal project to store and track data from weightlifting training sessions",
+  "main": "playground-1.mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "training_sessions_log_2"
+  },
+  "author": "Hadassa Lima",
+  "license": "ISC"
+}

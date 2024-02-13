@@ -4,7 +4,7 @@
 
 h1 {
     color: blue;
-    background-color: pink;
+    background-color: ;
     font-size: 2em;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -21,8 +21,8 @@ p {
 nav {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: .5em;
-    border: 5px groove pink;
-    padding: 2rem;
+    border: 0px groove pink;
+    padding: 3rem;
     background-color: beige;
 }
 
