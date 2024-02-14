@@ -1,14 +1,16 @@
 * {
-    text-align: center;
-    font-family: Sono;
+    font-family: Consolas, monospace;
 }
 
 h1 {
-    color: ;
+    text-align: center;
     background-color: ;
-    font-size: 2em;
-    font-family: Roboto Mono;
+    font-size: 3em;
+    font-family: Sono;
     padding-bottom: 100px;
+    text-transform: uppercase;
+    font-weight: lighter;
+
 }
 
 h2 {
@@ -21,46 +23,49 @@ body {
     font-size: 12px;
 }
 
-
-
 nav {
-    display: flexbox;
-    text-align: center;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
     font-size: .5em;
     border: 0px groove pink;
     padding: 3rem;
     background-color: ;
 }
 
-li::before {
-    content: "_ ";
-}
-li::after {
-    content: " _";
-}
-
 h2 ~ ul {
     font-style:;
 }
+
 dialog {
-    background-color: rgb(210, 177, 214);
+    background-color: ;
     color: rgb(0, 0, 0);
     border: 0px;
 }
 
-option {
-    font-weight: ;
-}
-
 a {
-    text-decoration: ;
+    text-decoration: none;
     color: rgb(0, 0, 0);
 }
 
 button {
     padding: 10px;
     border: 0px;
-}
+    border-radius: 20px;
+    width: max-content;
+    white-space: nowrap;
+
 a:hover,button:hover {
     background-color: rgb(255, 125, 19);
 }
+
+select>options {
+    text-align: left;
+}
+/* To find out later how to change this through a library (does not work natively)
+select>option:hover {
+    background-color: yellow;
+    color: blueviolet;
+}
+*/
