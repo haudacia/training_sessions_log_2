@@ -31,4 +31,6 @@ nextButton.addEventListener("click", ()=> {
     dialog2.showModal();
     openCheck(dialog2);
   });
+
+
   
