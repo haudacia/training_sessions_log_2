@@ -1,14 +1,32 @@
 {
-  "name": "workout_tracker",
+  "name": "root",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "workspaces": [
+    "server",
+    "client"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:client": "dotenv -- turbo run dev --scope='client'",
+    "start:server": "dotenv -- turbo run dev --scope='server'",
+    "dev": "dotenv -- turbo run dev",
+    "test": "cross-env dotenv -- turbo run test"
   },
   "author": "Hadassa Medeiros",
   "license": "ISC",
   "dependencies": {
-    "prettier": "^3.2.5"
+    "@vitejs/plugin-react": "^4.3.1",
+    "prettier": "^3.2.5",
+    "react-hook-form": "^7.52.1",
+    "react-router-dom": "^6.25.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.7.0",
+    "cross-env": "^7.0.3",
+    "dotenv-cli": "^7.4.2",
+    "eslint-plugin-react": "^7.35.0",
+    "globals": "^15.8.0",
+    "turbo": "^1.13.3",
+    "typescript-eslint": "^7.17.0"
   }
 }
