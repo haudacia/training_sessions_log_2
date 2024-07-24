@@ -489,3 +489,29 @@
 2024-07-24T14:19:36.839909Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
 2024-07-24T14:20:02.939933Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
 2024-07-24T14:20:02.939954Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:32:34.447489Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:32:34.447900Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:32:39.846958Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:32:39.846974Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:32:43.051233Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:32:43.051350Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:32:57.447646Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:32:57.447662Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:33:02.047564Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:33:02.047585Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:33:06.748632Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:33:06.748681Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:33:26.748323Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:33:26.748341Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:33:51.950163Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:33:51.950183Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:33:53.549384Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:33:53.549404Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:34:04.158707Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:34:04.158821Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:34:24.448818Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:34:24.448833Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:34:24.448904Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-24T14:35:14.950876Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/Sidebar.jsx")}
+2024-07-24T14:35:14.950895Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-24T14:35:14.962145Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
