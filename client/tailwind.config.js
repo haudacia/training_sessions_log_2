@@ -7,8 +7,11 @@ module.exports = {
     ],
     theme: {
         fontFamily: {
+            'cutive': ['Cutive Mono, monospace'],
+            'victor': ['Victor Mono, monospace'],
+            'xahn': ['Xahn Mono, monospace'],
             'mono': ['Space Mono', 'monospace'],
-            'serif': ['Abril Fatface', 'serif']
+            'serif': ['DM Serif Display', 'serif']
         },
         backgroundImage: {
             'gradient-central': "url('src/assets/grainy-rose.svg')",
