@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { NavLink } from 'react-router-dom';
+import RoundNavlink from '../components/RoundNavlink';
 
 const Sidebar = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -21,15 +21,15 @@ const Sidebar = () => {
                     {'<<'}
                 </button>
                 <nav className="font-victor italic flex flex-col mt-16">
-                    <NavLink to="/my-workouts" className="hover:underline mb-4">
+                    <RoundNavlink to="/my-workouts" className="hover:underline mb-4">
                         my workouts
-                    </NavLink>
-                    <NavLink to="/track-session" className="hover:underline mb-4">
+                    </RoundNavlink>
+                    <RoundNavlink to="/track-session" className="hover:underline mb-4">
                         start session
-                    </NavLink>
-                    <NavLink to="/session-history" className="hover:underline">
+                    </RoundNavlink>
+                    <RoundNavlink to="/session-history" className="hover:underline">
                         session history
-                    </NavLink>
+                    </RoundNavlink>
                 </nav>
             </div>
             {!isOpen && (
