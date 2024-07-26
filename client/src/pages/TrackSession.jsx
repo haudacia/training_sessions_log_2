@@ -5,18 +5,18 @@ import Select from '../components/Select'
 function TrackSession() {
     return (
         <div className='m-auto'>TrackSession
-            <Select>
-                <CustomButton>
-                    ▶
-                </CustomButton>
-                <CustomButton>
-                    ◀ </CustomButton>
-                <CustomButton>
-                    ◼</CustomButton>
-                <CustomButton>
-                    ❚ ❚
-                </CustomButton>
-            </Select>
+            <Select>            </Select>
+
+            <CustomButton>
+                ▶
+            </CustomButton>
+            <CustomButton>
+                ◀ </CustomButton>
+            <CustomButton>
+                ◼</CustomButton>
+            <CustomButton>
+                ❚ ❚
+            </CustomButton>
         </div >
     )
 }

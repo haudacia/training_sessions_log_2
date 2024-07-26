@@ -22,13 +22,13 @@ module.exports = {
             'gradient-2': 'linear-gradient(to bottom, #ff6d9100 0%, #ff6d9115 20%, #ff6d9140 40%, #ff6d9170 60%, #ff6d91 100%)',
             'gradient-3': 'linear-gradient(to bottom, #00000000 0%, #fff20015 20%, #fff20040 40%, #fff20070 60%, #fff200 100%)',
         },
-
         maxWidth: {
             "content": "max-content"
         },
         boxShadow: {
             'glow': '0 0 30px 10px rgba(255, 255, 0, 1)',
-
+            'crisp-black': '5px 5px 0px 1px black',
+            'crisp-black-press': '3px 5px 0px 0.5px black',
         },
 
     },
