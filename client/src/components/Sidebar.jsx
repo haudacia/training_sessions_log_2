@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import RoundNavlink from '../components/RoundNavlink';
+import RoundNavlink from './RoundNavlink';
 
 const Sidebar = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -20,7 +20,7 @@ const Sidebar = () => {
                 >
                     {'<<'}
                 </button>
-                <nav className="font-victor italic flex flex-col mt-16">
+                <nav className="font-victor italic flex flex-col mt-16 gap-4">
                     <RoundNavlink to="/my-workouts" className="hover:underline mb-4">
                         my workouts
                     </RoundNavlink>

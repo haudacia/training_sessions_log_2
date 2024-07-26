@@ -1,8 +1,23 @@
 import React from 'react'
+import CustomButton from '../components/CustomButton'
+import Select from '../components/Select'
 
 function TrackSession() {
     return (
-        <div>TrackSession</div>
+        <div className='m-auto'>TrackSession
+            <Select>
+                <CustomButton>
+                    ▶
+                </CustomButton>
+                <CustomButton>
+                    ◀ </CustomButton>
+                <CustomButton>
+                    ◼</CustomButton>
+                <CustomButton>
+                    ❚ ❚
+                </CustomButton>
+            </Select>
+        </div >
     )
 }
 

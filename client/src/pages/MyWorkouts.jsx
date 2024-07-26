@@ -3,12 +3,12 @@ import RoundNavlink from '../components/RoundNavlink'
 
 function MyWorkouts() {
     return (
-        <div className='flex rounded-xl bg-gradient-1 flex-col p-4 m-auto'>
+        <div className='flex rounded-3xl shadow-glow bg-[#D7D0BA] bg-center bg-no-repeat flex-col p-4 m-auto'>
             MyWorkouts
             <div>
                 <h1>current workout split</h1>
                 <ol>
-                    <li>calf raises</li>
+                    <radio>calf raises</radio>
                     <li>calf raises</li>
                     <li>calf raises</li>
                     <li>calf raises</li>
