@@ -14,6 +14,7 @@ const trainingSessionSchema = new Schema({
   },
   duration: {
     type: Number, //miliseconds
+    //first attempt to calculate session duration
     default: function () {
       this.endDateTime - this.creationDateTime
     }
