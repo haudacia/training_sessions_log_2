@@ -1,0 +1,166 @@
+2024-07-30T14:44:18.008474Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie"), AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2024-07-30T14:44:18.008516Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:44:18.106491Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/daemon/a41bbf5202747d0b-turbo.log.2024-07-30")}
+2024-07-30T14:44:18.106511Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:44:18.207658Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2024-07-30T14:44:18.207698Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:44:20.306874Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722350660288-47f7b7f6bde48.mjs")}
+2024-07-30T14:44:20.306962Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:44:20.407181Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722350660288-47f7b7f6bde48.mjs")}
+2024-07-30T14:44:20.407297Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:44:20.507705Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722350660288-47f7b7f6bde48.mjs")}
+2024-07-30T14:44:20.507725Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:44:20.507798Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:45:03.706940Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:45:03.706963Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:45:03.805977Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:45:03.805998Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:45:03.806063Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:45:10.206074Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2024-07-30T14:45:10.206093Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:45:12.007008Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722350711937-718f0eea4e027.mjs")}
+2024-07-30T14:45:12.007164Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:45:12.105793Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722350711937-718f0eea4e027.mjs")}
+2024-07-30T14:45:12.105818Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:45:38.606786Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-07-30T14:45:38.606804Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-07-30T14:45:45.106035Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client"), AnchoredSystemPathBuf(""), AnchoredSystemPathBuf(".turbo/cookies")}
+2024-07-30T14:45:45.106052Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:45:45.134225Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:45:53.305427Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("client"), AnchoredSystemPathBuf("client/src"), AnchoredSystemPathBuf(".turbo/cookies"), AnchoredSystemPathBuf(".turbo")}
+2024-07-30T14:45:53.305449Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:45:53.433383Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:45:53.433588Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages"), AnchoredSystemPathBuf("client/src/utils")}
+2024-07-30T14:45:53.433598Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:45:53.433661Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:45:58.205281Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/daemon"), AnchoredSystemPathBuf(".turbo"), AnchoredSystemPathBuf("")}
+2024-07-30T14:45:58.205304Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:46:54.504698Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-07-30T14:46:54.504720Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-07-30T14:46:57.807592Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client")}
+2024-07-30T14:46:57.807615Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:46:57.859999Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:47:04.705169Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:47:04.705188Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:47:07.704505Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-07-30T14:47:07.704518Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-07-30T14:47:10.703760Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src"), AnchoredSystemPathBuf("client"), AnchoredSystemPathBuf("client/src/pages"), AnchoredSystemPathBuf("")}
+2024-07-30T14:47:10.703826Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:47:10.735371Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:47:13.403902Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-07-30T14:47:13.403919Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-07-30T14:48:42.504942Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/3.cookie")}
+2024-07-30T14:48:42.504961Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:48:43.102356Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/3.cookie")}
+2024-07-30T14:48:43.102378Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:48:44.103404Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722350923995-2f139a9096106.mjs")}
+2024-07-30T14:48:44.103429Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:48:44.103520Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:50:14.201334Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routers/index.js")}
+2024-07-30T14:50:14.201348Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:50:20.302033Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/4.cookie")}
+2024-07-30T14:50:20.302055Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:50:21.500752Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351021449-1e0b716dfdec6.mjs")}
+2024-07-30T14:50:21.500767Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:50:21.500822Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:50:21.602153Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351021449-1e0b716dfdec6.mjs")}
+2024-07-30T14:50:21.602172Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:50:21.602228Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:51:51.299035Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routers/index.js")}
+2024-07-30T14:51:51.299055Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:51:51.339932Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:52:57.798052Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routers/index.js")}
+2024-07-30T14:52:57.798067Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:53:05.998088Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/5.cookie")}
+2024-07-30T14:53:05.998106Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:53:06.198538Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/5.cookie")}
+2024-07-30T14:53:06.198554Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:53:07.397970Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351187383-72f147ce9cbef.mjs")}
+2024-07-30T14:53:07.397993Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:53:07.498470Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351187383-72f147ce9cbef.mjs")}
+2024-07-30T14:53:07.498493Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:53:38.198675Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/6.cookie")}
+2024-07-30T14:53:38.198739Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:53:38.698596Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/6.cookie")}
+2024-07-30T14:53:38.698625Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:53:40.097613Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351220077-28f2503efb7ab.mjs")}
+2024-07-30T14:53:40.097638Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:53:40.177873Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:53:40.198151Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351220077-28f2503efb7ab.mjs")}
+2024-07-30T14:53:40.198169Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:53:40.198241Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:53:46.098735Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routers/index.js")}
+2024-07-30T14:53:46.098761Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:53:46.122476Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:53:51.298463Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routers/index.js")}
+2024-07-30T14:53:51.298478Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:53:51.298512Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:54:07.898068Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/controllers/trainingSession.controller.js")}
+2024-07-30T14:54:07.898088Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:54:11.997438Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routers/routes/trainingSession.js")}
+2024-07-30T14:54:11.997456Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:54:30.397467Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/schemas/trainingSession.schema.js")}
+2024-07-30T14:54:30.397485Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:54:30.397518Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:54:38.297212Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/7.cookie")}
+2024-07-30T14:54:38.297231Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:54:39.497300Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351279410-1b3e47c715195.mjs")}
+2024-07-30T14:54:39.497320Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:54:39.597443Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351279410-1b3e47c715195.mjs")}
+2024-07-30T14:54:39.597467Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:54:48.097134Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/schemas/trainingSession.schema.js")}
+2024-07-30T14:54:48.097151Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:54:55.697625Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/8.cookie")}
+2024-07-30T14:54:55.697643Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:54:56.096094Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/8.cookie")}
+2024-07-30T14:54:56.096114Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:54:57.397004Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351297364-4b9b58f773fc1.mjs")}
+2024-07-30T14:54:57.397032Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:54:57.503535Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:54:57.503731Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.js.timestamp-1722351297364-4b9b58f773fc1.mjs")}
+2024-07-30T14:54:57.503741Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:54:57.503832Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:56:00.496055Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:56:00.496070Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:56:13.998195Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:56:13.998363Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:56:27.295348Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:56:27.295369Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:56:52.695142Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies"), AnchoredSystemPathBuf(".turbo"), AnchoredSystemPathBuf("")}
+2024-07-30T14:56:52.695284Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:56:57.495110Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client"), AnchoredSystemPathBuf("server"), AnchoredSystemPathBuf("")}
+2024-07-30T14:56:57.495130Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }, WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:56:57.548839Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:56:57.639444Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:56:57.639643Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo"), AnchoredSystemPathBuf("client/src"), AnchoredSystemPathBuf("server/src")}
+2024-07-30T14:56:57.639707Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }, WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }}))
+2024-07-30T14:56:57.639828Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:56:57.639960Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:56:57.694264Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies")}
+2024-07-30T14:56:57.694282Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-07-30T14:56:57.794619Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routers"), AnchoredSystemPathBuf("server/src/routers/routes"), AnchoredSystemPathBuf("server/src/schemas"), AnchoredSystemPathBuf("server/src/controllers"), AnchoredSystemPathBuf("client/src/pages")}
+2024-07-30T14:56:57.794640Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("server"), path: AnchoredSystemPathBuf("server") }, WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:56:57.794689Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:56:57.794764Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:58:10.197265Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:58:10.197285Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:58:10.294741Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:58:10.294758Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:58:10.294860Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:58:15.593946Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("client/src/pages"), AnchoredSystemPathBuf("client"), AnchoredSystemPathBuf("client/src")}
+2024-07-30T14:58:15.593962Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:58:15.594037Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:58:25.693899Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:58:25.693916Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:58:25.795438Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:58:25.795458Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:58:25.795528Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:58:30.294088Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("client")}
+2024-07-30T14:58:30.294108Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:58:30.336424Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:58:30.393939Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src"), AnchoredSystemPathBuf("client/src/pages")}
+2024-07-30T14:58:30.393953Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:58:30.393999Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-07-30T14:58:31.093693Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/pages/TrackSession.jsx")}
+2024-07-30T14:58:31.093713Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("workout-tracker-react"), path: AnchoredSystemPathBuf("client") }}))
+2024-07-30T14:58:31.093787Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
