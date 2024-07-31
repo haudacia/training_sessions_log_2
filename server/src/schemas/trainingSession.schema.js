@@ -8,19 +8,17 @@ const trainingSessionSchema = new Schema({
     default: new Date(),
     immutable: true
   },
-  endDateTime: {
-    type: Date,
-    default: new Date("2024-07-31T17:08:00Z"),
-  },
-  duration: {
-    type: Number, //miliseconds
-    //first attempt to calculate session duration
-    default: function () {
-      this.endDateTime - this.creationDateTime
-    }
-  }
+  endDateTime: Date,
+  duration: Number // milissegundos
 });
+
+// trainingSessionSchema.pre('save', function (next) {
+//   if (this.endDateTime && this.creationDateTime) {
+//     this.duration = this.endDateTime - this.creationDateTime;
+//   }
+//   next();
+// });
 
 const trainingSession = model('trainingSession', trainingSessionSchema);
 
-export default trainingSession
+export default trainingSession;
