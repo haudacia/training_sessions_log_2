@@ -1,15 +1,24 @@
+import { response } from "express";
 import { Schema, model } from "mongoose";
 // import { datetime, timedelta } from datetime;
 
 const trainingSessionSchema = new Schema({
-  exercise: String,
+  'exercises': [{
+    'exercise': String, // replace by reference of corresponding model object
+    // get only Name property
+    'sets': [{
+      // 'setCount': {type: Number, default: 1}, // register set count here or through the FE?
+      'reps': { type: Number, require: true },
+      'weightload': { type: Number, require: true }
+    }]
+  }],
   creationDateTime: {
     type: Date,
     default: new Date(),
     immutable: true
   },
   endDateTime: Date,
-  duration: Number // milissegundos
+  duration: Number // milisseconds,
 });
 
 // trainingSessionSchema.pre('save', function (next) {
