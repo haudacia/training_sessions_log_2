@@ -3,22 +3,36 @@ import CustomButton from '../components/CustomButton'
 import Select from '../components/Select'
 import { newTrainingSession, handleEndTrainingSession } from '../utils/api.js'
 
-const deadline = "August, 1, 2024";
+// const deadline = "August, 1, 2024";
 
-const getTime = () => {
-    const time = Date.now() - Date.parse(deadline);
-    // const time = Date.parse(deadline) - Date.now();
+// const getTime = () => {
+//     const time = Date.now() - Date.parse(deadline);
+//     // const time = Date.parse(deadline) - Date.now();
 
-    console.log(time)
-}
-getTime()
+// }
+// getTime()
 const TrackSession = () => {
     return (
-        <div className='m-auto'>TrackSession
+        <div className='m-auto'>
             <Select>            </Select>
 
-            <CustomButton onClick={() => newTrainingSession({ exercise: 'squatss', creationDateTime: new Date() })}>
-                ▶
+            <CustomButton onClick={() => newTrainingSession(
+                {
+                    'exercises': [
+                        {
+                            'exercise': 'split squat',
+                            'sets': [
+                                {
+                                    'reps': 8, 'weightload': 20
+                                }
+                            ]
+                        }
+                    ],
+                    creationDateTime: new Date()
+                }
+            )
+            }
+            >▶
             </CustomButton>
             <CustomButton>
                 ◀ </CustomButton>
@@ -27,7 +41,7 @@ const TrackSession = () => {
             <CustomButton>
                 ❚ ❚
             </CustomButton>
-        </div >
+        </div>
     )
 }
 

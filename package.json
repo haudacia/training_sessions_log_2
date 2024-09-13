@@ -20,6 +20,12 @@
     "react-hook-form": "^7.52.1",
     "react-router-dom": "^6.25.1"
   },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
   "devDependencies": {
     "@eslint/js": "^9.7.0",
     "cross-env": "^7.0.3",

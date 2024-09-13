@@ -1,5 +1,5 @@
 {
-  "name": "workout-tracker-react",
+  "name": "@monorepo/client",
   "version": "0.0.0",
   "type": "module",
   "private": true,
