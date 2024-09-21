@@ -6,7 +6,7 @@ function Footer() {
             <img className='size-16' alt='icon-2' src='src/assets/pearl.png'></img>
             <ul className='flex justify-around gap-8 items-center'>
                 <li>
-                    <img className='size-20' alt='icon-1' src='src/assets/shape-gradient.svg'></img>
+                    <p>algo</p>
                 </li>
                 {/* <li>
                     <img className='size-16' alt='icon-2' src='src/assets/pearl.png'></img>
